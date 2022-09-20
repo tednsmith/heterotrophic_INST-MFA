@@ -3,8 +3,8 @@ Data and code associated with the publication "Isotopically non-stationary metab
 
 <h2> UDP glucose deconvolution</h2>
 
-UDPglucose_devonvolution.m  
-Devoncolutes the glucosyl labelling from the UDP-glucose labelling 
+UDPdecon.m  
+Devoncolutes the glucosyl labelling from the UDP-glucose labelling given inputs of UDP and UDP-glucose MIDs
 
 <h2> INCA model file and experimental data </h2>
 INST-MFA_heterotrophic_arabidopsis_INCA.mat  
